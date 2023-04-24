@@ -1,0 +1,10 @@
+1. terraform we get from website
+wget <terraform cli>
+mkdir terraform.terraform
+vi terraform.sh    ( copy the entire code in vi text editor) paste our own ip adress
+terraform init
+terraform -version
+terraform plan #exec
+terraform valid  #validation code
+terraform destroy  "#only for delete purpose"
+ok it is done thank you
